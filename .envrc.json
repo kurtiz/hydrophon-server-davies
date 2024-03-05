@@ -1,0 +1,17 @@
+{
+  "serviceAccount": {
+    "default": {
+      "type": "service_account",
+      "project_id": "ardhydophon",
+      "private_key_id": "bd18bdae70d32d0af6cfd5c4be7d565dc34c51f0",
+      "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkP8VHr3bmiMhX\n8GekbpZ1+he5IshU1EK+JWyqpqofbwCVy8I5uLJQX9hiHg1AEjFuGa9i/6Lnb9Er\nSs5swXhbp7WzjH6MwLiuXJjrTpNqd5AIQrQmjlnYNKKNZ8hQHhhZMlqrMp2DV0Be\n+sqklKoNe9nhua6ToOqGs7h3hu4PedKGAywSWAvvcKjp4UrsRMEixSweaQ06apUg\nfYzNylcTSlYYz5HFCTX+BXkCi9H/MSdQmEIVuWmdvEB3lXX3o2xNZnIJpLXYmhDO\nXpLz1XeVEwV7uZ8s72VB+Yie/RtZqry2Jwz2ZEgnxZS7J3Zh6y0cvH3wAgXN6YS0\nolnhVaVVAgMBAAECggEAArYy0Z4p/mBfvmPvsh1JSqVYYuwaFpxyhaUkiCS8RkyU\n2+RDTqSn/P+4GNaaLWaffkvaQ24pCF0mPOq9Qbpn/EtmipJVPImqAubwd2ISuP1E\nWX6QbtqGzTUBQghmnDwC9uYH7S+mvhZgr7DAS7tQm2xiCoIASdusQ5EQCJknsQWx\nDdW00f3Tz1/qSuilEd/vvAMOjVJg4LRTag5TkFOe3NujV/zJxzXxk5WVixXzZqlJ\nsos7hAX43r8mYdqn5r6mCvTtRDRR5vG67oleEppcH3qGjDJDMQJaVowkJSOlUfGl\nw5B0FcSM1BLIeWYbzPRwO9m7zp3CU+2Epuxs933quQKBgQDlYdwMtg7Yf330DcJj\nLcZUAeL0Z+HOponi8S4aILw95ZnwMDsD6l9Bm0rTTch8YDgFYbfDDSrjI31Ak6bY\nXWMKSgdbubvyvFBkGsQtWyJ35tpJtZdrbqYH3YjzRLurTJcnf09KtDuWIe6TOf02\nCW7fL806T2pA4dTzUI36m1MX5wKBgQC3Twiuz5fMeA60MRMUkzHcV5ZfXz1g3Wls\nD6rddtSPXV0RS3KKEZ7ihA0wqvIQ3MyRLKVVGEserVjCIxhQnPXnjF6PqAWaHctc\nMeBJNiv3M4KLz2foNDh77+tzc9uXbG76qkBrI0A22AgWwWHODansYOAz7dOkWHqk\nNt7tQJiBYwKBgHDoaYtsNgSFRPdTqoJtLrl9MDzDwZeZzDeEJgBAashA8zQSWYpE\n3FyL1xoJqIzoQ8sKXYzKN3kUp/uYckEAPtb6t4KD+yqxXRTZRAVbXa0NWhd8JiuA\njINEnbu48nOQQLr1ZI9OBiKRU0DvA1+M5yE/A1MXciK7xrl5xlk8CXuzAoGBAIqz\npblIYO8ZJN8Zhvt5iS/VonWVxgamYl+e10Xt5VZ5abNtaESqopN5IdXic3lo6O0s\nYAmscSLMPa3gCkTtD3BeGSsQEvUTeE3Re4lKEShidHQ/wrrD0L2Ow5S/ZLgGF09a\nRZYLvUoCWtSFDPFyC1JN1zfTy+G+BUZ+Ml5JE1xLAoGBALnqofEGkR1Lnpjr2IDQ\nUG9py5/QMBdjactHCrs9LTzlzCdI+vXlMZXnVldo7pf5rjxQZNj/SMwS2cLfIQ3M\nAI4uB32ibntRcNSzTSSJqjWMiaUbIT/73K8sIYOvpU16TeGbQiQMTkVGm7Rq55vL\nFTz8LuVxPcFLSX3sS0+PclFW\n-----END PRIVATE KEY-----\n",
+      "client_email": "firebase-adminsdk-dbqra@ardhydophon.iam.gserviceaccount.com",
+      "client_id": "112096116533575276459",
+      "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+      "token_uri": "https://oauth2.googleapis.com/token",
+      "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+      "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-dbqra%40ardhydophon.iam.gserviceaccount.com",
+      "universe_domain": "googleapis.com"
+    }
+  }
+}
