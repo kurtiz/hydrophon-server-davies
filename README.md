@@ -15,7 +15,20 @@ file provided by firebase for web
 - run `npm run start`
 
 ## Accessing the API
-- Provide information on how to access the API, including any authentication methods, endpoints, and example requests.
+
+There are just two main routes for this API
+- `/data/get`: get the data from firebase
+- `/data/send`: post data to firebase
 
 ## Additional Sections
-- You may also want to include sections for usage examples, contributing guidelines, and contact information.
+To post data to firebase using the `/data/send` route, use the url query format. 
+The data the API takes at the moment is 
+- Temperature
+- Humidity
+- Water-Temperature
+- ph
+- PumpStatus
+
+These are the keys/IDs for the data query. So making the query will look like this:
+
+`http://localhost:8080/data/send?Temperature=32.4&Humidity=58.1&Water-Temperature=23.8&ph=38&PumpStatus=true`

@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="id" value="b19bcea2-719c-4f92-8a9a-2bcf625c9147" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="Temperature" />
+                    <option name="value" value="32.4" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="Humidity" />
+                    <option name="value" value="58.1" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="Water-Temperature" />
+                    <option name="value" value="23.8" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="ph" />
+                    <option name="value" value="38" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="PumpStatus" />
+                    <option name="value" value="true" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="https://hydrophon-server-davies.onrender.com/data/send?Temperature=32.4&amp;Humidity=58.1&amp;Water-Temperature=23.8&amp;ph=38&amp;PumpStatus=true" />
+            </requestState>
+            <requestState>
+              <option name="id" value="b3cb16e7-8c71-4ac7-ae32-778296ee1016" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft 1" />
+              <option name="url" value="http://hydrophon-server-davies.onrender.com/data/get" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
     <option name="id" value="d0bc09cd-2dbf-4cbc-8fc1-8e921e20056e" />
   </component>
 </project>
