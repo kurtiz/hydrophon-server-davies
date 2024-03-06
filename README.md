@@ -16,7 +16,7 @@ file provided by firebase for web
 
 ## Accessing the API
 
-There are just two main routes for this API
+There are just two main endpoints for this API
 - `/data/get`: get the data from firebase
 - `/data/send`: post data to firebase
 
